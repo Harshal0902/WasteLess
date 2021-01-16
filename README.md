@@ -1,4 +1,5 @@
 # WasteLess
+About 6% of global greenhouse gas emissions is produced due to wastage of food. This cause global warming, harm environment, wastage of food (which can be feed to poor), wastage of resources, and wastage of money. WasteLess is a web application that keep track of the food in your house, or restaurant and keep warning you to use the product before it got expire and got waste.
 
 ## Presentation Link
 
