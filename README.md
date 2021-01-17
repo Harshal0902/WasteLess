@@ -30,6 +30,17 @@ https://wasteless01-dde3c.web.app/
 - For developing backend I have used Node Js and Express JS.
 - For styling we have used CSS and Bootstrap.
 
+## Impact
+- Reduces green house emission.
+- Easy to keep track of the food.
+- Save money wasted on food.
+- Saves resources use for producing food.
+- Save food.
+
+## Future Scope
+- An upload feature where the user can upload their grocery receipt and feed items, and add the product along with the details automatically.
+- Building an React Native Application for better experience.
+
 ## Prerequisites
 Required to install and run the software:
 
