@@ -5,7 +5,9 @@ About 6% of global greenhouse gas emissions is produced due to wastage of food. 
 
 
 ## Screenshots
-
+![Home](https://user-images.githubusercontent.com/64153988/104850824-5465a700-5917-11eb-82c5-d73128ac0f12.png)
+![Food](https://user-images.githubusercontent.com/64153988/104850827-57f92e00-5917-11eb-8343-ee5fb5f1d00f.png)
+![Dashboard](https://user-images.githubusercontent.com/64153988/104850831-5a5b8800-5917-11eb-9b71-9c5fd6435316.png)
 
 
 ## Main Features
