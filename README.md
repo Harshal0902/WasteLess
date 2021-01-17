@@ -5,9 +5,11 @@ About 6% of global greenhouse gas emissions is produced due to wastage of food. 
 
 
 ## Screenshots
-![Home](https://user-images.githubusercontent.com/64153988/104850824-5465a700-5917-11eb-82c5-d73128ac0f12.png)
-![Food](https://user-images.githubusercontent.com/64153988/104850827-57f92e00-5917-11eb-8343-ee5fb5f1d00f.png)
-![Dashboard](https://user-images.githubusercontent.com/64153988/104850831-5a5b8800-5917-11eb-9b71-9c5fd6435316.png)
+![Home](https://user-images.githubusercontent.com/64153988/104853383-7ca8d200-5926-11eb-9d30-1306b655fe1a.jpeg)
+![Food](https://user-images.githubusercontent.com/64153988/104853385-7fa3c280-5926-11eb-8b72-70782c9eeac2.jpeg)
+![Food](https://user-images.githubusercontent.com/64153988/104853387-829eb300-5926-11eb-839e-9b6490f6c296.png)
+![Dashboard](https://user-images.githubusercontent.com/64153988/104853389-85010d00-5926-11eb-81bd-b3b8727643c6.png)
+![Error](https://user-images.githubusercontent.com/64153988/104853394-87fbfd80-5926-11eb-9e84-fed7d2137889.png)
 
 
 ## Main Features
@@ -17,10 +19,8 @@ About 6% of global greenhouse gas emissions is produced due to wastage of food. 
 - Custom Scroll bar
 
 ## Methodology
-- We have used MERN Stack for building this project.
-- For frontend we have used React Js
-- For developing backend we have used Node Js and Express JS.
-- For Maintaining Database we have used MongoDB.
+- For frontend I have used React Js
+- For developing backend I have used Node Js and Express JS.
 - For styling we have used CSS and Bootstrap.
 
 ## Prerequisites
@@ -33,6 +33,6 @@ Required to install and run the software:
 
 From the project folder, run these commands in console (terminal) to install dependencies and run the app:
 ```
-1. cd client
+1. cd WasteLess
 2. npm install
 3. npm run dev
