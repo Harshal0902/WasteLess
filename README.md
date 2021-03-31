@@ -53,3 +53,6 @@ From the project folder, run these commands in console (terminal) to install dep
 ```
 1. npm install
 2. npm run dev
+```
+
+<img src="https://komarev.com/ghpvc/?username=WasteLess&color=blue&label=+Hackers+inspired"/>
